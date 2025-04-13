@@ -9,7 +9,7 @@ Portfolio project on optimising a model for real-life data
 The project uses a fire detector dataset that is found on kaggle. It uses a number of sensor measurements to predict whether or not there is a fire present.
 
 ## DATA
-The dataset that I used was uploaded to Kaggle (https://www.kaggle.com/code/dhavalrupapara/smoke-detection-using-machine-learning/input)
+The dataset that I used was downloaded directly from Kaggle (https://www.kaggle.com/code/dhavalrupapara/smoke-detection-using-machine-learning/input)
 
 ## MODEL 
 I trained five models for comparison: Logistic Regression; Decision Tree classifier; Random Forest classifier; Support Vector Machine classifier; and Gradient Boost. All models performed exceptionally well, scoring almost 100 %.
