@@ -28,24 +28,19 @@ The best accuracies for all five models are as follows:
 
 (Accuracy, Recall, Precision)
 
-Logistic Regression	      
-0.991218266006706	  
+Logistic Regression	      0.991218266006706	  
 
 
-Decision Tree Classifier	
-0.9999201660546064	
+Decision Tree Classifier	0.9999201660546064	
 
 
-Random Forest Classifier	
-0.9998403321092129	
+Random Forest Classifier	0.9998403321092129	
 
 
-Support Vector Machine	  
-0.9993613284368513	
+Support Vector Machine	  0.9993613284368513	
 
 
-Gradient Boosting	        
-0.9999201660546064	
+Gradient Boosting	        0.9999201660546064	
 
 
 
