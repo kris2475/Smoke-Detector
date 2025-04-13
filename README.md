@@ -24,34 +24,29 @@ After Logistic Regression model hyperparameter tuning
 Accuracy: 0.991218266006706  Recall: 0.994961370507222  Precision: 0.9927382415372584
 
 ## RESULTS
-The best performances for all five models are as follows:
+The best accuracies for all five models are as follows:
 
 (Accuracy, Recall, Precision)
 
 Logistic Regression	      
 0.991218266006706	  
-0.994961370507222	  
-0.9927382415372584
+
 
 Decision Tree Classifier	
 0.9999201660546064	
-1.0	                
-0.9998880429914913
+
 
 Random Forest Classifier	
 0.9998403321092129	
-0.9997760609114321	
-1.0
+
 
 Support Vector Machine	  
 0.9993613284368513	
-0.9998880304557161	
-0.9992167393980083
+
 
 Gradient Boosting	        
 0.9999201660546064	
-0.9998880304557161	
-1.0
+
 
 
 ## CONTACT DETAILS
